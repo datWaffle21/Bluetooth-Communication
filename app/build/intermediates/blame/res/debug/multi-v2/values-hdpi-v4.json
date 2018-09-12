@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\s64070\\Downloads\\h\\Sending-and-Receiving-Data-with-Bluetooth-master\\Bluetooth-Communication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\s64070\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\6230c7ddcfaedfe2917297481cc4d724\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
